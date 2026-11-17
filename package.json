@@ -5,5 +5,5 @@
   "appName": "Movy Ad-Free",
   "websiteURL": "https://movy.sx",
   "main": "index.js",
-  "evaluateScriptOnDocumentStart": true
+  "keys": []
 }
